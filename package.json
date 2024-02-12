@@ -1,0 +1,11 @@
+{
+  "name": "saas-metrics",
+  "version": "1.0.0",
+  "description": "Proof of concept of simple metrics library implementation.",
+  "type": "module",
+  "author": "maxico.dev",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.26.1"
+  }
+}
